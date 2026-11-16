@@ -24,7 +24,8 @@
 I am a developer who is passionate about creating clean, efficient, and robust software. Whether it's crafting complex backend architectures or building dynamic user interfaces, I love solving challenging problems through code. 
 
 - 🚀 I’m currently leading and building innovative projects at **[seedSolutions](https://github.com/seedSolutions)**.
-- 💻 My core stack revolves around **C#, .NET, Angular, and JavaScript**.
+- 💻 My core stack revolves around **C#, .NET, Angular, TypeScript, and Python**.
+- 🧠 Maintaining **[synapse-agents](https://github.com/meminozturkk/synapse-agents)** — 0-token OS hooks, zero-dependency MCP knowledge server, and multi-agent orchestration for Claude Code, Cursor & Antigravity.
 - 📈 I have a strong interest in financial technologies, data-driven solutions, and continuous learning.
 - ⚡ **Fun fact:** I run entirely on black espresso from my home setup, and when I'm away from the keyboard, you can probably find me doing a strength training workout or catching up on *Kimetsu no Yaiba*.
 
@@ -34,7 +35,7 @@ I am a developer who is passionate about creating clean, efficient, and robust s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,html,css,bootstrap,sql,git,github,vscode,visualstudio&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,angular,html,css,bootstrap,sql,git,github,vscode,visualstudio&perline=7" />
   </a>
 </p>
 
@@ -62,11 +63,11 @@ I am a developer who is passionate about creating clean, efficient, and robust s
 
 <br/>
 
-## 🏢 Organization Spotlight
+## 🚀 Featured Open Source
 
 <p align="center">
-  <a href="https://github.com/seedSolutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seedSolutions&repo=YOUR_TOP_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="seedSolutions Repo" />
+  <a href="https://github.com/meminozturkk/synapse-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meminozturkk&repo=synapse-agents&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="synapse-agents" />
   </a>
 </p>
 
